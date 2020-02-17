@@ -1,0 +1,11 @@
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\bin\Debug\netcoreapp2.1\CommandFollowAlong.deps.json
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\bin\Debug\netcoreapp2.1\CommandFollowAlong.runtimeconfig.json
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\bin\Debug\netcoreapp2.1\CommandFollowAlong.runtimeconfig.dev.json
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\bin\Debug\netcoreapp2.1\CommandFollowAlong.dll
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\bin\Debug\netcoreapp2.1\CommandFollowAlong.pdb
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\obj\Debug\netcoreapp2.1\CommandFollowAlong.csprojAssemblyReference.cache
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\obj\Debug\netcoreapp2.1\CommandFollowAlong.csproj.CoreCompileInputs.cache
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\obj\Debug\netcoreapp2.1\CommandFollowAlong.AssemblyInfoInputs.cache
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\obj\Debug\netcoreapp2.1\CommandFollowAlong.AssemblyInfo.cs
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\obj\Debug\netcoreapp2.1\CommandFollowAlong.dll
+C:\Users\P3dro\source\repos\CommandFollowAlong\CommandFollowAlong\obj\Debug\netcoreapp2.1\CommandFollowAlong.pdb
